@@ -1,0 +1,11 @@
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\bin\Debug\POE_TradeChatSpammer.exe
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\bin\Debug\POE_TradeChatSpammer.pdb
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\bin\Debug\InputSimulator.dll
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\bin\Debug\InputSimulator.pdb
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\bin\Debug\InputSimulator.xml
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.csprojResolveAssemblyReference.cache
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.Form1.resources
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.Properties.Resources.resources
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.csproj.GenerateResource.Cache
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.exe
+c:\users\anmont\documents\visual studio 2010\Projects\POE_TradeChatSpammer\POE_TradeChatSpammer\obj\x86\Debug\POE_TradeChatSpammer.pdb
